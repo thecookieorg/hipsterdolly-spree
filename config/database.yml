@@ -23,6 +23,6 @@ test:
 production:
   adapter: postgresql
   encoding: unicode
-  database: hipsterdolly_production
+  database: d2a6aldn6q8ucr
   pool: 5
   password:
